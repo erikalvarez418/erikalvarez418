@@ -1,4 +1,39 @@
-## Hi there 👋
+<h1>Hi, I'm Erik! <br/><a href="https://github.com/erikalvarez418"> Help Desk Specialist</a>, <a href="https://www.linkedin.com/in/cybererik">IT Professional</a>
+
+<h2>👨‍💻 HelpDesk Projects:</h2>
+
+<b>Creating a Ticketing System using OSTicket </b>
+
+<b>Using Active Directory in Microsoft Azure </b>
+
+<b>Easy Onboarding using Power Automate and Forms in 365 </b>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/cybererik
+
+
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **erikalvarez418/erikalvarez418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
