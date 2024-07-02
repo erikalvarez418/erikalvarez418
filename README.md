@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erik! <br/><a href="https://github.com/erikalvarez418"> Help Desk Specialist</a>, <a href="https://www.linkedin.com/in/cybererik">IT Professional</a>
+<h1>Hi, I'm Erik, an <a href="https://www.linkedin.com/in/cybererik">IT Professional</a>
 
 <h2>👨‍💻 HelpDesk Projects:</h2>
 
@@ -10,7 +10,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- 
+<h2> 📜 Certifications </h2>
+
+<small> <a href="https://www.coursera.org/account/accomplishments/verify/UE5TAK4E8RE5"> Google Technical Support Fundamentals </a>
+
+<small> <a href="https://www.credly.com/badges/9dd35ef9-98e3-4c72-a601-cbb259a55647/linked_in_profile"> Google Cybersecurity Certificate </a>
+
+<small> <a href="https://www.credly.com/badges/b7ce8b77-7e5b-489f-b6f8-ca804a927eb7/public_url"> Jamf Certified Associate - Jamf Pro </a>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
