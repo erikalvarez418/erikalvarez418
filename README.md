@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2> 📜 Certifications </h2>
+<h2> 📜  Certifications </h2>
 
 <small> <a href="https://www.coursera.org/account/accomplishments/verify/UE5TAK4E8RE5"> Google Technical Support Fundamentals </a>
 
