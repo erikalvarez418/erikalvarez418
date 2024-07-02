@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 HelpDesk Projects:</h2>
 
-<b>Creating a Ticketing System using OSTicket </b>
+<a href="https://github.com/erikalvarez418/osticketinstall"> <b> Installing a Ticketing System using OSTicket </b> </a> 
 
 <b>Using Active Directory in Microsoft Azure </b>
 
