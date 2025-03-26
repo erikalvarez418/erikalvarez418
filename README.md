@@ -8,7 +8,11 @@
 
 <b>Easy Onboarding using Power Automate and Forms in 365 </b>
 
+<h2>👨‍💻 HelpDesk Knowledgebase:</h2>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2>👨‍💻 Cybersecurity Knowledgebase:</h2>
 
 <h2> 📜  Certifications </h2>
 
