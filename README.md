@@ -12,6 +12,8 @@
 
 <h2> 📜  Certifications </h2>
 
+<small> <a href="https://www.credly.com/badges/ab6e94cb-2541-4157-808f-b1f566cad872/public_url"> CompTIA Security+ </a>
+
 <small> <a href="https://www.coursera.org/account/accomplishments/verify/UE5TAK4E8RE5"> Google Technical Support Fundamentals </a>
 
 <small> <a href="https://www.credly.com/badges/9dd35ef9-98e3-4c72-a601-cbb259a55647/linked_in_profile"> Google Cybersecurity Certificate </a>
