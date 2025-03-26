@@ -1,14 +1,8 @@
 <h1>Hi, I'm Erik, an <a href="https://www.linkedin.com/in/cybererik">IT Professional</a>
 
-<h2>👨‍💻 HelpDesk Projects:</h2>
+<h2>👨‍💻 HelpDesk Knowledge Base:</h2>
 
 <a href="https://github.com/erikalvarez418/osticketinstall"> <b> Installing a Ticketing System using OSTicket </b> </a> 
-
-<b>Using Active Directory in Microsoft Azure </b>
-
-<b>Easy Onboarding using Power Automate and Forms in 365 </b>
-
-<h2>👨‍💻 HelpDesk Knowledge Base:</h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
