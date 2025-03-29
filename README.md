@@ -1,14 +1,14 @@
 <h1>Hi, I'm Erik, an <a href="https://www.linkedin.com/in/cybererik">IT Professional</a>
 
-<h2>👨‍💻 HelpDesk Knowledge Base:</h2>
-
-<a href="https://github.com/erikalvarez418/osticketinstall"> <b> Installing a Ticketing System using OSTicket </b> </a> 
+<h2>👨‍💻 HelpDesk Documentation:</h2>
 
 <a href="https://github.com/erikalvarez418/helpdesk-knowledge-base"> <b> L1-L2 Helpdesk Knowledge Base </b> </a> 
 
+<a href="https://github.com/erikalvarez418/osticketinstall"> <b> Installing a Ticketing System using OSTicket </b> </a> 
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2>👨‍💻 Cybersecurity Knowledge Base:</h2>
+<h2>👨‍💻 Cybersecurity Documentation:</h2>
 
 <h2> 📜  Certifications </h2>
 
