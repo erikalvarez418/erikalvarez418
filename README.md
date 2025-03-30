@@ -4,7 +4,7 @@
 
 <a href="https://github.com/erikalvarez418/helpdesk-knowledge-base"> <b> L1-L2 Helpdesk Knowledge Base </b> </a> 
 
-<a href="https://github.com/erikalvarez418/osticketinstall"> <b> Installing a Ticketing System using OSTicket </b> </a> 
+<a href="https://github.com/erikalvarez418/osticketinstall"> <b> Installing a Free Ticketing System (OSTicket) </b> </a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
