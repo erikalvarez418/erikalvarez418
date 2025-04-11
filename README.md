@@ -9,13 +9,13 @@
 
 <a href="https://github.com/erikalvarez418/cybersecurity-knowledgebase/"> <b> Cybersecurity Knowledge Base </b> </a> 
 
-<h2>👨‍💻 HelpDesk Documentation:</h2>
+<h2>👨‍💻 HelpDesk Documentation/Projects:</h2>
 
 <a href="https://github.com/erikalvarez418/helpdesk-knowledge-base"> <b> L1-L2 Helpdesk Knowledge Base </b> </a> 
 
 <a href="https://github.com/erikalvarez418/osticketinstall"> <b> Installing a Free Ticketing System (OSTicket) </b> </a> 
 
-<h2>👨‍💻 Networking Documentation:</h2>
+<h2>👨‍💻 Networking Documentation/Projects:</h2>
 
 <a href="https://github.com/erikalvarez418/networking-knowledgebase"> <b> Networking Knowledge Base </b> </a> 
 
