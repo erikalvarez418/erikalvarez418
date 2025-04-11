@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<a href="https://github.com/erikalvarez418/cybersecurity-projects/blob/main/unauthorized-TOR-usage.md"> <b> Threat Hunt Report: Unauthorized TOR Usage </b> </a> 
+
+
 <h2>👨‍💻 Cybersecurity Documentation:</h2>
 
 <a href="https://github.com/erikalvarez418/cybersecurity-knowledgebase/"> <b> Cybersecurity Knowledge Base </b> </a> 
