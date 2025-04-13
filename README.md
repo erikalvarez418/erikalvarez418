@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cybersecurity Documentation:</h2>
 
-<a href="https://github.com/erikalvarez418/cybersecurity-knowledgebase/"> <b> Cybersecurity Knowledge Base </b> </a> 
+<a href="https://github.com/erikalvarez418/cybersecurity-knowledgebase/blob/main/README.md"> <b> Cybersecurity Knowledge Base </b> </a> 
 
 <h2>👨‍💻 HelpDesk Documentation/Projects:</h2>
 
@@ -17,7 +17,7 @@
 
 <h2>👨‍💻 Networking Documentation/Projects:</h2>
 
-<a href="https://github.com/erikalvarez418/networking-knowledgebase"> <b> Networking Knowledge Base </b> </a> 
+<a href="https://github.com/erikalvarez418/networking-knowledgebase/blob/main/README.md"> <b> Networking Knowledge Base </b> </a> 
 
 <h2> 📜  Certifications </h2>
 
