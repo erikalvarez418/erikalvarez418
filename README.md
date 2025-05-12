@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erik, an <a href="https://www.linkedin.com/in/cybererik">IT Professional</a>
+<h1>Hi, I'm Erik, an <a href="https://www.linkedin.com/in/cybererik">aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
