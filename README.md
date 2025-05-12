@@ -6,6 +6,8 @@
 
 <a href="https://github.com/erikalvarez418/KQLMaps/"> <b> Creating KQL Maps for CEOs and Non-Tech People </b> </a> 
 
+<a href="https://github.com/erikalvarez418/GRC-Analyst-Project/"> <b> GRC Analyst Project </b> </a> 
+
 <h2>👨‍💻 Cybersecurity Documentation:</h2>
 
 <a href="https://github.com/erikalvarez418/cybersecurity-knowledgebase/blob/main/README.md"> <b> Cybersecurity Knowledge Base </b> </a> 
