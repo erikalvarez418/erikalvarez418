@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<a href="https://github.com/erikalvarez418/cybersecurity-projects/blob/main/unauthorized-TOR-usage.md"> <b> Threat Hunt Report: Unauthorized TOR Usage </b> </a> 
+<a href="https://github.com/erikalvarez418/Threat-Hunt-Report"> <b> Threat Hunt Report: Unauthorized TOR Usage </b> </a> 
 
 <a href="https://github.com/erikalvarez418/cybersecurity-projects/blob/main/WhyKQLMapsAreEssentialforCEOsandNon-TechPeople.md"> <b> Why KQL Maps Are Essential for CEOs and Non-Tech People </b> </a> 
 
