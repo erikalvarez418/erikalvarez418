@@ -12,16 +12,6 @@
 
 <a href="https://github.com/erikalvarez418/cybersecurity-knowledgebase/blob/main/README.md"> <b> Cybersecurity Knowledge Base </b> </a> 
 
-<h2>👨‍💻 HelpDesk Documentation/Projects:</h2>
-
-<a href="https://github.com/erikalvarez418/helpdesk-knowledge-base/blob/main/README.md"> <b> L1-L2 Helpdesk Knowledge Base </b> </a> 
-
-<a href="https://github.com/erikalvarez418/osticketinstall"> <b> Installing a Free Ticketing System (OSTicket) </b> </a> 
-
-<h2>👨‍💻 Networking Documentation/Projects:</h2>
-
-<a href="https://github.com/erikalvarez418/networking-knowledgebase/blob/main/README.md"> <b> Networking Knowledge Base </b> </a> 
-
 <h2> 📜  Certifications </h2>
 
 <small> <a href="https://www.credly.com/badges/ab6e94cb-2541-4157-808f-b1f566cad872/public_url"> CompTIA Security+ </a>
